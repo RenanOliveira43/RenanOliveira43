@@ -1,7 +1,7 @@
 ### Olá mundo! 👋
 Meu nome é Renan Oliveira, e estou cursando Ciência da Computação na Universidade Estadual de Campinas (Unicamp).
 
-Tenho em conhecimeno em:
+### Tenho conhecimento em:
 
 <div>
   <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
