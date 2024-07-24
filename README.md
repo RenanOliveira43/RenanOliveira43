@@ -1,4 +1,4 @@
-## Olá mundo! 👋
+### Olá mundo! 👋
 Meu nome é Renan Oliveira, e estou cursando Ciência da Computação na Universidade Estadual de Campinas (Unicamp).
 
 Tenho em conhecimeno em:
@@ -12,7 +12,7 @@ Tenho em conhecimeno em:
   <img alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-## Contatos
+### Contatos
 
 <div> 
   <a href="mailto:r257364@dac.unicamp.br">
